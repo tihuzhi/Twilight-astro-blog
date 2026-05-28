@@ -7,7 +7,7 @@ site:
     # 站点副标题
     subtitle: "我的心向我呼唤，去动荡的远方"
     # 语言配置
-    lang: "zh_Hans"
+    lang: "zh"
     # 翻译配置
     translate:
         # 启用翻译功能
@@ -174,13 +174,13 @@ navbar:
             "Archive"
         - # 一级导航链接 - 展览 (自定义)
             # 导航名称
-            name: "Exhibition"
+            name: "展览"
             # 导航链接
             url: "/exhibition/"
             # 导航图标
             icon: "material-symbols:person"
             # 导航描述
-            description: "A collection of my creative works and experiences"
+            description: "一个展示面板"
             # 子链接
             children:
                 - # 二级导航链接 - 项目 (预设)
@@ -290,14 +290,14 @@ profile:
             # 图标
             icon: "fa6-brands:github"
             # 链接
-            url: "https://github.com/Spr-Aachen/Twilight"
+            url: "https://github.com/tihuzhi/Twilight-astro-blog"
 
 # 公告配置
 announcement:
     # 公告标题
-    title: "Announcement"
+    title: "告示板"
     # 公告内容
-    content: "Welcome to my blog!"
+    content: "正在施工中……"
     # 允许用户关闭公告
     closable: true
     # 链接配置
@@ -305,7 +305,7 @@ announcement:
         # 启用链接
         enable: true
         # 链接文本
-        text: "Learn More"
+        text: "查看更多"
         # 链接 URL
         url: "/about/"
         # 是否外部链接

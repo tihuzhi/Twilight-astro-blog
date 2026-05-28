@@ -4,7 +4,7 @@ backend:
     repo: tihuzhi/Twilight-astro-blog # 请替换为您的 GitHub 仓库
     branch: main # 请替换为您的分支名称
     site_domain: www.wuuyuri.ink # 请替换为您的域名
-    base_url: https://www.wuuyuri.ink  # 请替换为您的 URL
+    base_url: https://www.wuuyuri.ink/  # 请替换为您的 URL
     auth_endpoint: oauth # OAuth 路由由集成提供
 
 
