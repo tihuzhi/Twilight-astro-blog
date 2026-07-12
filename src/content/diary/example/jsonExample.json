@@ -1,9 +1,8 @@
 {
-    "title": "Apothegm",
-    "content": "The darkest hour is just before the dawn.",
-    "date": "2020-02-02T00:00:00Z",
-    "images": [
-        "./Dawn.jpg",
-        "https://picsum.photos/800/600?random=0"
-    ]
+  "images": [
+    "img_20260713_025416.jpg"
+  ],
+  "title": "下雨了",
+  "date": "2026-07-13T05:48:00.000+08:00",
+  "content": "气候多变啊"
 }
